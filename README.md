@@ -23,8 +23,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/nico-2223/nico-2223/output/snake.svg" alt="Snake animation" />
 
 ###
